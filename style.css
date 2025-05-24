@@ -20,3 +20,37 @@
     font-size: 19px;
     padding-left: 48px;
 }
+.header{
+   height: 250px;
+    background-color: rgb(248, 231, 209);
+}
+.reclam{
+    height: 250px;
+    background-color: rgb(247, 186, 107);
+}
+.art{
+    height: 200px;
+    background-color: cadetblue;
+}
+.collection{
+    height: 200px;
+    background-color: blueviolet;
+}
+.avatar{
+    height: 635px;
+    top: 2198.94px;
+    left: 0.05px;
+    background-color: black;
+}
+.explore{
+    height: 1200px;
+    background-color: brown;
+}
+.iphone{
+    height: 500px;
+    background-color: beige;
+}
+.nftdistro{
+    height: 250px;
+    background-color: aquamarine;
+}
